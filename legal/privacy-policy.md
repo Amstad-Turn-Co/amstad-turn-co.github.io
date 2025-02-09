@@ -1,3 +1,7 @@
+---
+name: Privacy Policy
+---
+
 **Privacy Policy**
 
 This privacy policy applies to the Turn Master app (hereby referred to as "Application") for mobile devices that was created by Amstad Turn Co (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
